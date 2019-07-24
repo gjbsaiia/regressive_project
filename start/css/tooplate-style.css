@@ -114,19 +114,19 @@ footer a:hover {
 
 .banner2{
 	background-image: url(../img/Rethink_Header.jpg);
-	background-size: cover;
-	height: 30%;
+	background-size: 50%;
+	width: 100%;
 	background-repeat: no-repeat;
-	padding: 7% 0px 7% 0px
+	padding: 2% 0px 7% 0px
 }
 
 .banner2Mobile{
 	display: none;
 	background-image: url(../img/Rethink_Header.jpg);
-	background-size: cover;
-	height: 30%;
+	background-size: 50%;
+	height: 5%;
 	background-repeat: no-repeat;
-	padding: 7% 0px 7% 0px
+	padding: 2% 0px 7% 0px
 }
 
 .first-gallery-section {
